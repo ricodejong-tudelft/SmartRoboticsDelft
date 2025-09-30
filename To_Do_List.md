@@ -41,6 +41,8 @@ To do list:
     
 General:
 
+-Organize the code base, for readability.
+
 -Pipeline?
 
 -The AI model we create is a "classical ML model' since we dont use neural networks.
