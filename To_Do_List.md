@@ -23,7 +23,7 @@ To do list:
 -clean by time
 -clean by correct delimiter
 -check if all values are present in the measurement.
--If this is all correct then the measurement can go in to a folder with all the correct measuremetents.
+-If this is all correct then the measurement can go in to a folder with all the correct measurements.
 
 
 -More modelling for the correlation between features and the data.  Pieter
