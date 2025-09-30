@@ -4,7 +4,7 @@ Hello!
 NOT IN CHRONOLOGICAL ORDER!
 
 
--concrete list of all visualizations and why?
+-concrete list of all visualizations and an explanation?
 -Create in the wiki a page with all graphs and some annotion, explaining the graphs.
 
 -Clean the data, remove all data without an expected weight, and remove the data without the correct timelength.
