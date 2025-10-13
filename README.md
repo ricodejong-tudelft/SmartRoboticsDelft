@@ -17,5 +17,5 @@ But since the epoch progression basically does not show any real progress after 
 
 <br>
 
-In general, our thoughts are that the underlying itself is quite linear. It is data from a robot arm following a path created by an algorithm afterall.
+In general, our thoughts are that the underlying data itself is quite linear. It is data from a robot arm following a path created by an algorithm afterall.
 So there is enough justification to classify model 2, the simple model as the best model sofar, but we will do some more reasearch. 
