@@ -11,7 +11,7 @@ The best model in this folder is Ridge with R²=0.9806.
 	
 **Machine_learning_trial_3:** <br>
 This model was created with no real 'feature' engineering (the data was prepared and cleaned). Instead a convolutional neural network was created.
-The model in this folder is Ridge with R²=0.9735.
+The cnn model in this folder has R²=0.9735.
 This model can be optimazed more, there was almost zero hyperparameter tuning done. 
 But since the epoch progression basically does not show any significant progress after the initial batches, this is probably not fruitfull.
 
